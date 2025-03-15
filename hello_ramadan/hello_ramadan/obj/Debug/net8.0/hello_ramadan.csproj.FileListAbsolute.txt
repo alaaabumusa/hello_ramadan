@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\bin\Debug\net8.0\hello_ramadan.exe
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\bin\Debug\net8.0\hello_ramadan.deps.json
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\bin\Debug\net8.0\hello_ramadan.runtimeconfig.json
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\bin\Debug\net8.0\hello_ramadan.dll
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\bin\Debug\net8.0\hello_ramadan.pdb
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\obj\Debug\net8.0\hello_ramadan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\obj\Debug\net8.0\hello_ramadan.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\obj\Debug\net8.0\hello_ramadan.AssemblyInfo.cs
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\obj\Debug\net8.0\hello_ramadan.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\obj\Debug\net8.0\hello_ramadan.dll
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\obj\Debug\net8.0\refint\hello_ramadan.dll
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\obj\Debug\net8.0\hello_ramadan.pdb
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\obj\Debug\net8.0\hello_ramadan.genruntimeconfig.cache
+C:\Users\1\Desktop\New folder (3)\hello_ramadan\hello_ramadan\obj\Debug\net8.0\ref\hello_ramadan.dll
